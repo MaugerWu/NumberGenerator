@@ -5,7 +5,9 @@
    `mvn archetype:generate -DgroupId=com.cqupt -DartifactId=NumberGenerator -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false`
 
 2. Maven 目录布局
-使用`mvn archetype:generate` + `maven-archetype-quickstart`模板, 以下项目的目录结构被创建: [参考：Maven 标准目录布局](http://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html)
+使用`mvn archetype:generate` + `maven-archetype-quickstart`模板, 以下项目的目录结构被创建: 
+
+   [参考：Maven 标准目录布局](http://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html)
 
    ```xml
    NumberGenerator

@@ -1,6 +1,6 @@
 # NumberGenerator
 
-1. 在终端（* UNIX或Mac）或命令提示符（Windows）中，浏览到要创建 Java 项目的文件夹。键入以下命令：
+1. 在终端（LINUX/UNIX或Mac）或命令提示符（Windows）中，浏览到要创建 Java 项目的文件夹。键入以下命令：
 
    `mvn archetype:generate -DgroupId=com.cqupt -DartifactId=NumberGenerator -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false`
 
